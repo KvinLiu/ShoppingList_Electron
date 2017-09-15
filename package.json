@@ -1,0 +1,11 @@
+{
+  "name": "shopingList",
+  "version": "1.0.0",
+  "description": "A demo app powered by election",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Kevin",
+  "license": "MIT"
+}
